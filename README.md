@@ -70,7 +70,6 @@ Note: The EC2 instance may be stopped to avoid cloud costs, but the CI/CD pipeli
 
 ### Application Version 3 (Auto Deploy)
 ![Version 3](screenshots/version3.png)
-
 Author
 
 Hamza Terzi
