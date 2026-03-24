@@ -60,14 +60,16 @@ Project Structure
 Live Demo
 http://3.79.44.134
 Note: The EC2 instance may be stopped to avoid cloud costs, but the CI/CD pipeline and project can still be reviewed via GitHub Actions.
-Screenshots
-GitHub Actions Pipeline
+## Screenshots
 
-(Add GitHub Actions screenshot here)
+### GitHub Actions Pipeline
+![GitHub Actions](screenshots/Actions.png)
 
-Live Application
+### Application Version 1
+![Version 1](screenshots/version 1.png)
 
-(Add application screenshot here)
+### Application Version 3 (Auto Deploy)
+![Version 3](screenshots/Version 3.png)
 
 Author
 
