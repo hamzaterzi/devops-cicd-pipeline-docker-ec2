@@ -66,10 +66,10 @@ Note: The EC2 instance may be stopped to avoid cloud costs, but the CI/CD pipeli
 ![GitHub Actions](screenshots/Actions.png)
 
 ### Application Version 1
-![Version 1](screenshots/Version 1.png)
+![Version 1](screenshots/version 1.png)
 
 ### Application Version 3 (Auto Deploy)
-![Version 3](screenshots/version 3.png)
+![Version 3](screenshots/Version 3.png)
 
 Author
 
